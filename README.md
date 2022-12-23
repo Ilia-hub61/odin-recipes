@@ -1,2 +1,2 @@
 # odin-recipes
-My first recets
+My first project on Html
